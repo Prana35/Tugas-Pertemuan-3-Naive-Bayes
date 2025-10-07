@@ -1,1 +1,1 @@
-print("ini contoh coding saya Yoan")
+print("ini commit saya Yoan")
