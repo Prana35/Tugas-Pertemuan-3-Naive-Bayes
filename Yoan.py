@@ -1,0 +1,1 @@
+print("ini contoh coding saya Yoan")
